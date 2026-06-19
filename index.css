@@ -4,18 +4,28 @@ nav {margin-left: 30px; margin-right: 20px; margin-top: 20px; color:#fceeee; col
 body {background-color: #fceeee; margin: 0; padding: 0; font-family: 'Edu NSW ACT Hand Cursive', cursive;}
 main {background-color: #ffffff; padding: 10px; border-radius: 10px; margin-left: 100px; margin-right: 100px; margin-top: 50px; }
 
-p {font-size: 25px; line-height: 1.5; margin-bottom: 50px; color: #3d3d3d; }
-h2 {font-size: 35px; margin-bottom: 20px; color: #8d3330; }
+p {font-size: 20px; line-height: 1.5; margin-bottom: 50px; color: #3d3d3d; }
+h2 {font-size: 35px;text-align: center; margin-bottom: 20px; color: #8d3330; margin-left: 75px;}
 section {margin-left: 80px; margin-right: 80px; }
 
 #littlepigs {width: 500px; display: block; margin: 0 auto;}
 #strawhut {width: 300px; display: block; margin: 0 auto;}
-#thebrickhouse {width: 550px; display: block; margin: 0 auto;}
-#wolf {width: 400px; display: block; margin: 0 auto;}
+#thebrickhouse {width: 400px; display: block; margin: 0 auto;}
+#wolf {width: 600px; display: block; margin: 0 auto;}
 #wolfblowing {width: 450px; display: block; margin: 0 auto;}
-#pigsruntohouse {width: 350px; display: block; margin: 0 auto;}
+#pigsruntohouse {width: 500px; display: block; margin: 0 auto;}
 #wolfboiling {width: 400px; display: block; margin: 0 auto;}
 #pigshappy {width: 500px; display: block; margin: 0 auto;}
 #woodhouse {width: 400px; display: block; margin: 0 auto;}
+
+.threepigs {display: grid; grid-template-columns: 1fr 1fr; gap: 10px;}
+.strawhouse {display: grid; grid-template-columns: 1fr 1fr; gap: 10px;}
+.woodenhouse {display: grid; grid-template-columns: 1fr 1fr; gap: 10px;}
+.brickhouse {display: grid; grid-template-columns: 1fr 1fr; gap: 10px;}
+.thewolf {display: grid; grid-template-columns: 1fr 1fr; gap: 10px;}
+.wolfattacks {display: grid; grid-template-columns: 1fr 1fr; gap: 10px;}
+.houserefuge {display: grid; grid-template-columns: 1fr 1fr; gap: 10px;}
+.trapchimney {display: grid; grid-template-columns: 1fr 1fr; gap: 10px;}
+.finalhappily {text-align: center;}
 
 footer {background-color: #ec8c7e; color: #ffffff; align-items: center; display: flex; flex-direction: column; padding: 1rem; border-radius: 10px; margin-left: 30px; margin-right: 20px; margin-top: 20px; }
