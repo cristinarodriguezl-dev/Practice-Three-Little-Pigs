@@ -1,0 +1,9 @@
+header {background-color: #ec8c7e; color: #ffffff; align-items: center; display: flex; flex-direction: column; padding: 1rem; border-radius: 10px; margin-left: 30px; margin-right: 20px; margin-top: 30px; }
+nav {margin-left: 30px; margin-right: 20px; margin-top: 20px; color:#fceeee; color: #ffffff; font-size: 18px; }
+
+body {background-color: #fceeee; margin: 0; padding: 0; }
+main {background-color: #ffffff; padding: 10px; border-radius: 10px; margin-left: 100px; margin-right: 100px; margin-top: 50px; }
+
+
+
+footer {background-color: #ec8c7e; color: #ffffff; align-items: center; display: flex; flex-direction: column; padding: 1rem; border-radius: 10px; margin-left: 30px; margin-right: 20px; margin-top: 20px; }
