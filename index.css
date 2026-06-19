@@ -1,9 +1,21 @@
 header {background-color: #ec8c7e; color: #ffffff; align-items: center; display: flex; flex-direction: column; padding: 1rem; border-radius: 10px; margin-left: 30px; margin-right: 20px; margin-top: 30px; }
 nav {margin-left: 30px; margin-right: 20px; margin-top: 20px; color:#fceeee; color: #ffffff; font-size: 18px; }
 
-body {background-color: #fceeee; margin: 0; padding: 0; }
+body {background-color: #fceeee; margin: 0; padding: 0; font-family: 'Edu NSW ACT Hand Cursive', cursive;}
 main {background-color: #ffffff; padding: 10px; border-radius: 10px; margin-left: 100px; margin-right: 100px; margin-top: 50px; }
 
+p {font-size: 25px; line-height: 1.5; margin-bottom: 50px; color: #3d3d3d; }
+h2 {font-size: 35px; margin-bottom: 20px; color: #8d3330; }
+section {margin-left: 80px; margin-right: 80px; }
 
+#littlepigs {width: 500px; display: block; margin: 0 auto;}
+#strawhut {width: 300px; display: block; margin: 0 auto;}
+#thebrickhouse {width: 550px; display: block; margin: 0 auto;}
+#wolf {width: 400px; display: block; margin: 0 auto;}
+#wolfblowing {width: 450px; display: block; margin: 0 auto;}
+#pigsruntohouse {width: 350px; display: block; margin: 0 auto;}
+#wolfboiling {width: 400px; display: block; margin: 0 auto;}
+#pigshappy {width: 500px; display: block; margin: 0 auto;}
+#woodhouse {width: 400px; display: block; margin: 0 auto;}
 
 footer {background-color: #ec8c7e; color: #ffffff; align-items: center; display: flex; flex-direction: column; padding: 1rem; border-radius: 10px; margin-left: 30px; margin-right: 20px; margin-top: 20px; }
